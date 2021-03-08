@@ -7,6 +7,6 @@ Files MTD_X-Y_plumed.dat and  MTD_X-Y_frames.dat contain respectively input file
 
 Files MTD_X-Y_plumed.dat and  MTD_X-Y_frames.dat correspond to metadynamics that allows exploration between metastable states X and Y.
 
-Folders umbrella_sampling_X-Y contain each a serie of folder that correspond to umbrella sampling windows. Each folder contains plumed.dat and frames.dat input for plumed1.3.
+Folders umbrella_sampling_X-Y contain each a serie of folders that correspond to umbrella sampling windows. Each folder contains plumed.dat and frames.dat input for plumed1.3.
 
 Umbrella sampling between metastable states X and Y is made of the comprehensive set of simulations contains in the umbrella_sampling_X-Y.
